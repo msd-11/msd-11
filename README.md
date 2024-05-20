@@ -4,18 +4,21 @@
 Computer science enthusiast
 
 
-## Programming Languages  
+## Technologies
 
-![My Skills](https://skills.thijs.gg/icons?i=c,react,nodejs,dart,flutter,python,js,java)
+![My Skills](https://skillicons.dev/icons?i=react,tailwind,nodejs,dart,flutter,python,ts,js,vite,c,java,mysql)
 
 
 ## IDEs 
 
-![My Skills](https://skills.thijs.gg/icons?i=neovim,visualstudio,vscode)
+![My Skills](https://skillicons.dev/icons?i=neovim,visualstudio,vscode)
 
   
-## Personal projects
+## Projects
 * [GreenHeart](https://github.com/msd-11/green-heart) Dart / Flutter : Healthy recipes app
+* [Cryper](https://github.com/msd-11/cryper) React Typescript / TailwindCss : Game about Cryptocurrency's value
+* [Crystaload](https://github.com/msd-11/Crystaload) React Typescript / Electron : BitTorrent Client focused on games
+* [Car Price Predicator](https://github.com/msd-11/car-price-predictor) Python / AI : AI Model that predicts car price
 
 
 ## My Stats :

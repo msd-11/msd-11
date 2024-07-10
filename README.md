@@ -17,6 +17,7 @@ Computer science enthusiast
 ## Projects
 * [GreenHeart](https://github.com/msd-11/green-heart) Dart / Flutter : Healthy recipes app
 * [Cryper](https://github.com/msd-11/cryper) React Typescript / TailwindCss : Game about Cryptocurrency's value
+* [Backoffice Front](https://github.com/msd-11/backoffice-front) React Typescript / TailwindCss : Backoffice front connected with api for a keyboard selling company
 * [Crystaload](https://github.com/msd-11/Crystaload) React Typescript / Electron : BitTorrent Client focused on games
 * [Car Price Predicator](https://github.com/msd-11/car-price-predictor) Python / AI : AI Model that predicts car price
 
